@@ -1,0 +1,27 @@
+.body{
+    background-color: black;
+    color: white;
+}
+.divv{
+
+display: flex;
+flex-direction: column;
+
+}
+.div2{
+
+    display: flex;
+    flex-direction: ROW;
+}
+
+.img123{
+
+    width: 60%;
+    border-radius: 20PX;
+}
+
+.img12{
+    display: flex;
+    position: relative;
+    top: 310px;
+}
